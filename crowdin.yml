@@ -7,4 +7,5 @@ files:
   - source: S.xlsx
     translation: S.xlsx
     multilingual: 1
+    first_line_contains_header: 1
     scheme: 'identifier,source_phrase,de,pt,es,fr'
