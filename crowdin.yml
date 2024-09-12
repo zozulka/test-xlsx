@@ -1,0 +1,5 @@
+files:
+  - source: Sample (3).xlsx
+    translation: Sample (3).xlsx
+    multilingual: 1
+    scheme: 'identifier,source_phrase,de,pt-PT,es-ES,fr'
