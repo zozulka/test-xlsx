@@ -1,5 +1,6 @@
 files:
   - source: Sample (3).xlsx
     translation: Sample (3).xlsx
+    first_line_contains_header: 1
     multilingual: 1
     scheme: 'identifier,source_phrase,de,pt-PT,es-ES,fr'
